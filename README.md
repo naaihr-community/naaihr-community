@@ -4,9 +4,11 @@ This is the official organization to organise stuff developed for the community 
 
 ## 🔗 Links
 
-[YouTube](https://youtube.com/naaihr)
-[Twitch](https://youtube.com/naaihr)
-[Imprint](https://84komma5.de/impressum-naaihr/)
+[YouTube](https://youtube.com/naaihr)<br>
+
+[Twitch](https://youtube.com/naaihr)<br>
+
+[Imprint](https://84komma5.de/impressum-naaihr/)<br>
 
 ## 📫 Reach us
 
